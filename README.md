@@ -1,0 +1,2 @@
+# Trading
+Automated trading
